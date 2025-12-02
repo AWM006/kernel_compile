@@ -224,7 +224,7 @@ If you are a beginner, I recommend trying to build the kernel without a build sc
 
 - In my case, the kernel version is **4.14.113**.
 
-- You can find full information about **choosing the correct compiler for your kernel version** [here](./toolchains/) (based on my experience, btw).
+- You can find full information about **choosing the correct compiler for your kernel version** [here](./tutorial.MD) (based on my experience, btw).
 
 - In my case, they are: [clang-r383902b](https://github.com/ravindu644/Android-Kernel-Tutorials/releases/download/toolchains/clang-r383902b.tar.gz), [arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu](https://github.com/ravindu644/Android-Kernel-Tutorials/releases/download/toolchains/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu.tar.xz)
 
